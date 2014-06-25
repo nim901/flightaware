@@ -1,7 +1,7 @@
 Flightaware
 ==========
 
-Flightaware is a module that should display flight information form flightaware.com
+Flightaware is a module that should display flight information from flightaware.com
 
 ## Usage:
 
