@@ -31,7 +31,7 @@ And flight_general holds:
 'Flight Aircraft'
 ```
 ## Note
-This module is no were to be complete. it needs optimization and has some bugs, that I'm probably not going to fix.
+This module is nowhere to be complete. it needs optimization and has some bugs, that I'm probably not going to fix.
 I've created this while waiting at the air port for my dad's plane to land.
 
 demo.py is a very simple use-case for this module. It uses VeryPrettyTable to display the information in a table form.
